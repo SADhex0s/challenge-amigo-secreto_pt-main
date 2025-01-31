@@ -11,8 +11,7 @@ Este é um aplicativo simples de Amigo Secreto desenvolvido com JavaScript, HTML
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Possíveis Melhorias](#possíveis-melhorias)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ## Funcionalidades
 
